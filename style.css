@@ -41,8 +41,9 @@ img
 { border: 0px; 
   margin: 0px; 
   padding: 0px;
+  vertical-align: middle;
   }
-
+  
 a
 { outline: none;}
 
@@ -288,20 +289,21 @@ ul
   margin: 0 0 20px 0;}
   
 table
-{margin: 10px 0 30px 0;}
+{ margin: 10px 0 30px 0;
+  width: 100%;
+  height:auto;
+}
 
 table tr th, table tr td
-{ background: #FFF;
+{ background: none;
   color: #47433F;
   padding: 7px 4px;
   text-align: left;}
   
 table tr td
-{ width: 300px;
-  height:auto;
-  background: #FFF;
+{ background: none;
   color: #47433F;
-  border-top: 1px solid #FFF;}
+  border: none}
     
 figure
 { display: center;
