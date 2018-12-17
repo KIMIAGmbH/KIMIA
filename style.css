@@ -295,13 +295,13 @@ table
 }
 
 table tr th, table tr td
-{ background: none;
+{ background: #FFF;
   color: #47433F;
   padding: 7px 4px;
   }
   
 table tr td
-{ background: none;
+{ background: #FFF;
   color: #47433F;
   border: none}
     
